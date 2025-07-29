@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'spacex';
+  src: url('./font/spacex.ttf');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.spacex {
+  font-family: 'spacex';
+  color: '#fff';
+}
